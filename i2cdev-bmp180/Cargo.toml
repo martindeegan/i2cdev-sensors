@@ -8,6 +8,6 @@ readme = "README.md"
 license = "MIT/Apache-2.0"
 
 [dependencies]
-i2cdev = "0.3.1"
+i2cdev = "0.4.0"
 byteorder = "1"
 i2csensors = "0.1.*"
